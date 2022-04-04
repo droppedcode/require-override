@@ -1,6 +1,6 @@
 {
   "name": "@droppedcode/require-override",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "droppedcode",
   "license": "MIT",
   "scripts": {
@@ -40,5 +40,12 @@
     "registry": "https://registry.npmjs.org/"
   },
   "homepage": "https://github.com/droppedcode/require-override",
-  "repository": "git://github.com/droppedcode/require-override"
+  "repository": "git://github.com/droppedcode/require-override",
+  "keywords": [
+    "nodejs",
+    "load",
+    "package",
+    "decorator",
+    "static"
+  ]
 }
